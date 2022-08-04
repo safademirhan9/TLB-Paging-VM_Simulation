@@ -1,0 +1,2 @@
+   text	   data	    bss	    dec	    hex	filename
+ 841749	   8696	  14160	 864605	  d315d	/usr/bin/gcc
